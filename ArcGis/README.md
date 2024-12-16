@@ -4,6 +4,8 @@
 
 Ce projet porte sur l'évaluation des risques d'inondation dans différentes régions du Tchad à l'aide d'ArcGIS Online. L'objectif est d'analyser l'étendue des inondations, l'impact sur la population et les infrastructures critiques telles que les routes, les écoles et les hôpitaux. Ce projet illustre l'utilisation des Systèmes d'Information Géographique (SIG) et de l'analyse des données pour soutenir les efforts humanitaires dans les zones touchées par des catastrophes naturelles.
 
+👉 **[Voir la Carte Interactive]([https://www.arcgis.com/home/webmap/viewer.html?webmap=votre_lien_unique](https://www.arcgis.com/home/webmap/viewer.html?webmap=ef8534c2922f4d949ca350ceecf33728))**
+
 ---
 
 ## Objectives
