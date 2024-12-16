@@ -54,7 +54,7 @@ This project demonstrates a spatial analysis of refugee needs in Chad using ArcG
 ---
 
 ## Project Link:
-You can interact with the project and explore the maps in more detail using this [interactive map](https://arcgis.com/link_to_map).
+You can interact with the project and explore the maps in more detail using this [interactive map](<iframe src="https://gis.african-parks.org/portal/apps/instant/nearby/index.html?appid=5ce446804b4449f18734329a9de2ceaf" width="400" height="600" frameborder="0" style="border:0" allowfullscreen>Les iFrames ne sont pas pris en charge sur cette page.</iframe>).
 
 ---
 
