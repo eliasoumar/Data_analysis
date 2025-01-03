@@ -31,7 +31,7 @@ Security Incidents CSV: Provided by local security reports.
 Chad Routes Layer: Downloaded from Humanitarian OpenStreetMap.
 ## Results
 The analysis produced a clear, actionable map showing dangerous and safe road segments across Chad. This map can support humanitarian missions, aid workers, and local authorities in planning safe routes and avoiding high-risk areas.
-[The map is available here](https://services3.arcgis.com/sZA2i52IItrzayG5/arcgis/rest/services/INSO_Incidents_hot_spot_analysis_WFL1/FeatureServer)
+[The map is available here](https://tchadima.maps.arcgis.com/apps/mapviewer/index.html?webmap=9246b15810e34713b5cb4794b459ccb7)
 
 ## Conclusion
 This project highlights the value of spatial analysis in addressing real-world problems. By combining publicly available data with spatial tools like buffers and intersections, we can turn raw incident reports into insightful, practical solutions.
