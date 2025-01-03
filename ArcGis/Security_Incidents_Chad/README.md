@@ -2,6 +2,8 @@
 
 This project is a spatial analysis of security incidents in Chad aimed at identifying and visualizing high-risk areas. By combining incident data with road networks, I created an interactive map to help humanitarian and local authorities assess and manage security risks more effectively.
 
+👉 [Voir la carte des zones inondées au Tchad](https://tchadima.maps.arcgis.com/apps/mapviewer/index.html?webmap=8d5b23c7b11c460da984b500454264b4)
+
 ## Project Overview
 ### Loading Data
 I started by importing the CSV files containing the recorded security incidents in Chad. Each incident point was carefully added as a layer to the basemap to provide a clear geographical context.
