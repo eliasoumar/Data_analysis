@@ -39,7 +39,7 @@ The second INSO project is giving dashboard of all incidents by county, types, d
 - Data cleansing with R  
 
 **Link to Dashboard:**  
-[INSO Incidents Dashboard - Project 2](https://public.tableau.com/views/ElectriccalVehicle/Dashboard1?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[INSO Incidents Dashboard - Project 2](#)
 
 ---
 
@@ -58,7 +58,7 @@ This project involves analyzing data related to electric vehicles, including pro
 - Data sources from Kaggle  
 
 **Link to Dashboard:**  
-[Electric Vehicles Dashboard](#) (If hosted on Tableau Public, insert the link)
+[Electric Vehicles Dashboard](https://public.tableau.com/views/ElectriccalVehicle/Dashboard1?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -66,4 +66,4 @@ This project involves analyzing data related to electric vehicles, including pro
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/tableau-projects.git
+   git clone https://github.com/eliasoumar/Data_analysis/Tableau/
