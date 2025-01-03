@@ -1,41 +1,66 @@
-# Flood Risk Assessment in Chad Using ArcGIS Online
 
-## Project Overview
 
-Ce projet porte sur l'évaluation des risques d'inondation dans différentes régions du Tchad à l'aide d'ArcGIS Online. L'objectif est d'analyser l'étendue des inondations, l'impact sur la population et les infrastructures critiques telles que les routes, les écoles et les hôpitaux. Ce projet illustre l'utilisation des Systèmes d'Information Géographique (SIG) et de l'analyse des données pour soutenir les efforts humanitaires dans les zones touchées par des catastrophes naturelles.
+# **ArcGIS Projects**
 
-👉 [Voir la carte des zones inondées au Tchad](https://www.arcgis.com/home/webmap/viewer.html?webmap=ef8534c2922f4d949ca350ceecf33728)
+Welcome to my repository of ArcGIS projects! This collection showcases various geospatial analysis and mapping tasks I’ve completed using **ArcGIS**, with a focus on humanitarian applications, environmental conservation, and spatial data visualization.
 
 ---
 
-## Objectives
+## **Projects**
 
-1. Cartographier les zones touchées par les inondations au Tchad.
-2. Évaluer l'impact des inondations sur la population et les infrastructures critiques.
-3. Utiliser des outils d'analyse spatiale pour visualiser et analyser les données.
-4. Créer une carte interactive pour une meilleure compréhension et prise de décision.
+### 1. **Incident Mapping for Humanitarian Aid (INSO)**  
+**Description**:  
+This project involves mapping and visualizing security incidents in areas of humanitarian intervention using ArcGIS. The aim is to help organizations better plan their operations by identifying high-risk zones.  
+- Tools: ArcGIS Pro  
+- Key Deliverables:  
+  - Interactive maps highlighting security incidents  
+  - Analysis of incident trends over time  
+
+### 2. **Refugee Needs Assessment**  
+**Description**:  
+Using ArcGIS to visualize refugee distributions and assess humanitarian needs in Chad.  
+- Tools: ArcGIS Pro, R, Tableau  
+- Key Deliverables:  
+  - Thematic maps of refugee camp locations  
+  - Spatial analysis of aid accessibility  
+
+### 3. **Conservation Area Monitoring**  
+**Description**:  
+This project focuses on monitoring wildlife conservation areas using ArcGIS. It includes creating geodatabases and tracking wildlife movement.  
+- Tools: ArcGIS Pro, ArcGIS Online  
+- Key Deliverables:  
+  - High-quality maps of protected areas  
+  - Reports on wildlife movement patterns  
 
 ---
 
-## Dataset
+## **Technologies & Tools**
 
-Le jeu de données utilisé dans ce projet contient les champs suivants :
+- **ArcGIS Pro**  
+- **ArcGIS Online**  
+- **ArcMap**  
+- **R** (for statistical analysis)  
+- **Tableau** (for interactive visualizations)
 
-- **Location** : Nom de la région.
-- **Latitude** : Coordonnée de latitude de la région.
-- **Longitude** : Coordonnée de longitude de la région.
-- **Flood_Extent** : Étendue des inondations en kilomètres carrés.
-- **Population** : Population de la région.
-- **Roads** : Nombre de routes dans la région.
-- **Schools** : Nombre d'écoles dans la région.
-- **Hospitals** : Nombre d'hôpitaux dans la région.
+---
 
-### Example Dataset
+## **How to Use**
 
-```csv
-Location,Latitude,Longitude,Flood_Extent,Population,Roads,Schools,Hospitals
-N'Djamena,12.1348,15.0557,1.5,1000000,50,20,15
-Moundou,8.5674,16.0858,3.0,150000,25,10,5
-Sarh,9.1429,18.3923,2.0,120000,30,12,8
-Abéché,13.8299,20.8324,0.5,75000,15,5,3
-Kélo,9.3083,15.8066,4.0,60000,20,8,4
+1. Clone this repository using the following command:  
+   ```bash
+   git clone https://github.com/eliasoumar/Data_analysis/ArcGis/arcgis-projects.git
+   cd arcgis-projects
+   ```
+2. Open the ArcGIS project files (`.aprx` or `.mxd`) in **ArcGIS Pro**
+3. Review the project documentation in each folder for detailed instructions.
+
+---
+
+## **Contact**
+
+Feel free to reach out if you have questions or suggestions regarding my projects:  
+- **Email**: [eliasoumar@gmail.com](mailto:eliasoumar@gmail.com)  
+- **LinkedIn**: [Elias Oumar](https://www.linkedin.com/in/eliasoumar)  
+- **GitHub**: [eliasoumar](https://github.com/eliasoumar)
+
+---
