@@ -2,7 +2,7 @@
 
 This project is a spatial analysis of security incidents in Chad aimed at identifying and visualizing high-risk areas. By combining incident data with road networks, I created an interactive map to help humanitarian and local authorities assess and manage security risks more effectively.
 
-👉 [Voir la carte des zones inondées au Tchad](https://tchadima.maps.arcgis.com/apps/mapviewer/index.html?webmap=8d5b23c7b11c460da984b500454264b4)
+👉 [Check security incidents in Chad](https://tchadima.maps.arcgis.com/apps/mapviewer/index.html?webmap=8d5b23c7b11c460da984b500454264b4)
 
 ## Project Overview
 ### Loading Data
@@ -33,7 +33,7 @@ Security Incidents CSV: Provided by local security reports.
 Chad Routes Layer: Downloaded from Humanitarian OpenStreetMap.
 ## Results
 The analysis produced a clear, actionable map showing dangerous and safe road segments across Chad. This map can support humanitarian missions, aid workers, and local authorities in planning safe routes and avoiding high-risk areas.
-[The map is available here](https://tchadima.maps.arcgis.com/apps/mapviewer/index.html?webmap=ef8534c2922f4d949ca350ceecf33728)
+
 
 ## Conclusion
 This project highlights the value of spatial analysis in addressing real-world problems. By combining publicly available data with spatial tools like buffers and intersections, we can turn raw incident reports into insightful, practical solutions.
