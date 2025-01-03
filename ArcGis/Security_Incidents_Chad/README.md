@@ -1,4 +1,5 @@
 Security Incidents Analysis in Chad
+
 This project is a spatial analysis of security incidents in Chad aimed at identifying and visualizing high-risk areas. By combining incident data with road networks, I created an interactive map to help humanitarian and local authorities assess and manage security risks more effectively.
 
 Project Overview
@@ -41,3 +42,4 @@ This project is open-source and free to use under the MIT License.
 
 Contact
 If you have questions or feedback, you can reach me at eliasoumar@gmail.com. I'd love to hear how this project helps or any ideas for improving it!
+
