@@ -24,13 +24,15 @@ Using ArcGIS to visualize refugee distributions and assess humanitarian needs in
   - Thematic maps of refugee camp locations  
   - Spatial analysis of aid accessibility  
 
-### 3. **Conservation Area Monitoring**  
-**Description**:  
-This project focuses on monitoring wildlife conservation areas using ArcGIS. It includes creating geodatabases and tracking wildlife movement.  
-- Tools: ArcGIS Pro, ArcGIS Online  
-- Key Deliverables:  
-  - High-quality maps of protected areas  
-  - Reports on wildlife movement patterns  
+### 3. Flooding Area Analysis
+Description:
+This project focuses on analyzing and visualizing flood-prone areas using geospatial data. It includes creating high-resolution flood risk maps to aid in disaster preparedness and response planning.
+
+Tools: ArcGIS Pro, ArcGIS Online
+Key Deliverables:
+Flood risk maps based on elevation and rainfall data
+Interactive dashboards showing flood-prone zones and population impact
+Reports on flood mitigation strategies
 
 ---
 
@@ -38,7 +40,6 @@ This project focuses on monitoring wildlife conservation areas using ArcGIS. It 
 
 - **ArcGIS Pro**  
 - **ArcGIS Online**  
-- **ArcMap**  
 - **R** (for statistical analysis)  
 - **Tableau** (for interactive visualizations)
 
